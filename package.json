@@ -56,8 +56,5 @@
     "type": "git",
     "url": "git@github.com:vue-stripe/vue-stripe.git"
   },
-  "typings": "typings/index.d.ts",
-  "engines": {
-    "node": "16"
-  }
+  "typings": "typings/index.d.ts"
 }
